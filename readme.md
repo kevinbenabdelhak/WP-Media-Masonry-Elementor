@@ -13,6 +13,8 @@
 
 **WP Media Masonry Elementor** est un widget Elementor qui vous permet de créer des galeries de médias uniques en combinant des images et des vidéos dans une mise en page masonry. Ce plugin est idéal pour les portfolios et les galeries de blog, offrant une flexibilité de design et des fonctionnalités avancées.
 
+[![Voir le tutoriel](https://img.youtube.com/vi/A-_uKarg1L8/maxresdefault.jpg)](https://www.youtube.com/watch?v=A-_uKarg1L8)
+
 ### Fonctionnalités principales :
 
 - **Galerie mixée :** Affichez des images (JPG, PNG, AVIF) et des vidéos côte à côte.
@@ -65,3 +67,9 @@ Oui, vous disposez d'options pour personnaliser la bordure, les couleurs et l'om
 - Gestion du format d'image AVIF.
 - Inclusion d'une visionneuse pour les médias.
 - Fonctionnalité d'obfuscation des liens.
+
+
+
+<a href="https://kevin-benabdelhak.fr/soutenir/">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXY0cmdrdnNjcXlxb3hrcG15YmpzYWRqZ3BpeHNyY3I4YjZ1eXc0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R9mgVlsCuv6XCDK8Lb/giphy.gif" alt="Soutenir Kevin Benabdelhak pour développer des plugins WordPress" style="width:100%;" />
+</a>
